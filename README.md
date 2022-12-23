@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-:man_technologist: About Me :<br>I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.<br>- :telescope: I’m working as a Software Engineer and contributing to frontend building web applications.<br><br>- :seedling: Exploring ML/AI.<br><br>- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.<br><br>- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vlad-bulhakov-2b2b60172/)
+:man_technologist: About Me :<br>I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.<br>- :telescope: I’m working as a Software Engineer and contributing to frontend building web applications.<br><br>- :seedling: Exploring ML/AI.<br><br>- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.<br><br>- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-vladbulhakov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vlad-bulhakov-2b2b60172/)
 
 
 ## 🌐 Socials:
