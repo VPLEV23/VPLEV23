@@ -2,6 +2,7 @@
 # 💫 About Me:
 :man_technologist: About Me :<br>I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ukraine.<br>- :telescope: I’m working as a Software Engineer and contributing to frontend building web applications.<br><br>- :seedling: Exploring ML/AI.<br><br>- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.<br><br>- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-vladbulhakov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vlad-bulhakov-2b2b60172/)
 
+## #STANDWITHUKRAINE 🇺🇦 🇺🇦 🇺🇦  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vlad.bulhakovv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vlad-bulhakov-2b2b60172/) 
